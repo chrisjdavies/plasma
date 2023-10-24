@@ -1,4 +1,4 @@
-extern crate gfx_demo;
+use gfx_demo;
 
 const TITLE: &'static str = "Plasma";
 const WINDOW_WIDTH: usize = 640;
